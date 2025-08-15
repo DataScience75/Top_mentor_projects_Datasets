@@ -1,0 +1,51 @@
+review_id,product_id,review_text,rating
+1,P101,Excellent battery life and superb camera quality. Highly recommended for travelers.,5
+2,P101,"The phone lasts two days on a single charge, great for outdoor use.",5
+3,P101,Battery is good but the screen is average.,4
+4,P101,Amazing camera but the design feels outdated.,4
+5,P101,Very reliable battery performance.,5
+6,P102,"Poor performance, lags frequently when opening apps.",2
+7,P102,"Camera quality is below average, not recommended.",2
+8,P102,The phone heats up quickly during use.,1
+9,P102,Touch response is slow and frustrating.,2
+10,P102,Good design but very slow.,2
+11,P103,Blazing fast performance and smooth multitasking.,5
+12,P103,"Runs heavy games without lag, excellent speed.",5
+13,P103,Very responsive and fast loading times.,5
+14,P103,Performance is top-notch for its price range.,5
+15,P103,Incredible speed but battery drains fast.,4
+16,P104,"Extremely lightweight and portable, great for travel.",5
+17,P104,Slim design but battery life is short.,3
+18,P104,Very comfortable to carry around.,4
+19,P104,Lightweight but gets scratched easily.,3
+20,P104,Compact and fits in small bags.,4
+21,P105,Affordable and good value for money.,5
+22,P105,Budget-friendly but camera is basic.,4
+23,P105,"Great for basic use, not for gaming.",4
+24,P105,Cheap but feels durable.,4
+25,P105,Low cost and works well for calls.,5
+26,P106,Excellent sound quality and deep bass.,5
+27,P106,"Loud and clear audio, perfect for music lovers.",5
+28,P106,Sound is crisp but treble is too high.,4
+29,P106,Impressive audio performance.,5
+30,P106,Best sound system I've used in a phone.,5
+31,P107,"Rugged and durable, survives drops easily.",5
+32,P107,Solid build quality for harsh environments.,5
+33,P107,Very sturdy but heavy.,4
+34,P107,Feels strong but edges chip over time.,4
+35,P107,Perfect for construction site workers.,5
+36,P108,"Bright and sharp display, great for videos.",5
+37,P108,Screen resolution is amazing.,5
+38,P108,Vivid colors and high contrast.,5
+39,P108,Display quality is stunning but reflective in sunlight.,4
+40,P108,Perfect for movie watching.,5
+41,P109,Fast charging and long battery backup.,5
+42,P109,Charges to full in under an hour.,5
+43,P109,Very convenient charging speed.,5
+44,P109,Quick charge but battery drains in heavy use.,4
+45,P109,Superb charging experience.,5
+46,P110,Amazing camera zoom and detail capture.,5
+47,P110,Photo quality is professional-grade.,5
+48,P110,Zoom works well but low-light is average.,4
+49,P110,Crisp images with high dynamic range.,5
+50,P110,Best camera for wildlife photography.,5
